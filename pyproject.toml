@@ -1,7 +1,7 @@
 [project]
 name = "hermod"
 version = "0.1.0"
-description = "GitHub PR shepherd agent — a Norns durable execution reference implementation"
+description = "GitHub PR shepherd agent, a Norns durable execution reference implementation"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
